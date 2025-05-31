@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angkasafiles.github.io/file-desain/sitemap.xml

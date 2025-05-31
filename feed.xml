@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>angkasafiles</title>
+    <link href="https://angkasafiles.github.io/file-desain/feed.xml" rel="self" />
+    <link href="https://angkasafiles.github.io/file-desain" />
+    <updated>2025-05-31T21:47:02+07:00</updated>
+    <author>
+        <name>AngkasaFiles</name>
+    </author>
+    <id>https://angkasafiles.github.io/file-desain</id>
+
+    <entry>
+        <title>1000 T-Shirt Mockups</title>
+        <author>
+            <name>AngkasaFiles</name>
+        </author>
+        <link href="https://angkasafiles.github.io/file-desain/1000-t-shirt-mockups.html"/>
+        <id>https://angkasafiles.github.io/file-desain/1000-t-shirt-mockups.html</id>
+        <media:content url="https://angkasafiles.github.io/file-desain/media/posts/1/Photoroom-20250512_104052.jpg" medium="image" />
+            <category term="Templates"/>
+            <category term="T-Shirts"/>
+            <category term="Mockups"/>
+
+        <updated>2025-05-31T21:14:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://angkasafiles.github.io/file-desain/media/posts/1/Photoroom-20250512_104052.jpg" alt="" />
+                    1000 T-Shirt Mockups Template mockup untuk photoshop, tinggal masukan gambar, bisa atur warna, posisi dan ukuran. tes 1 2 3 tes 3 4 5
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://angkasafiles.github.io/file-desain/media/posts/1/Photoroom-20250512_104052.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="1000-t-shirt-mockups">
+      1000 T-Shirt Mockups
+    </h2>
+
+  <p>
+    Template mockup untuk photoshop, tinggal masukan gambar, bisa atur warna, posisi dan ukuran.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://angkasafiles.github.io/file-desain/media/posts/1/gallery/Photoroom-20250512_094708.jpg" data-size="2000x2000">
+        <img loading="lazy" src="https://angkasafiles.github.io/file-desain/media/posts/1/gallery/Photoroom-20250512_094708-thumbnail.jpg" height="720" width="720" alt="" >
+      </a>
+      <figcaption>tes 1 2 3</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angkasafiles.github.io/file-desain/media/posts/1/gallery/Photoroom-20250512_104052.jpg" data-size="2048x2048">
+        <img loading="lazy" src="https://angkasafiles.github.io/file-desain/media/posts/1/gallery/Photoroom-20250512_104052-thumbnail.jpg" height="720" width="720" alt="" >
+      </a>
+      <figcaption>tes 3 4 5</figcaption>
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+</feed>
