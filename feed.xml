@@ -3,7 +3,7 @@
     <title>AngkasaFiles</title>
     <link href="https://angkasafiles.github.io/file-desain/feed.xml" rel="self" />
     <link href="https://angkasafiles.github.io/file-desain" />
-    <updated>2025-06-04T09:36:12+07:00</updated>
+    <updated>2025-06-04T10:29:43+07:00</updated>
     <author>
         <name>AngkasaFiles</name>
     </author>
@@ -58,8 +58,12 @@
     <li>Install <a href="https://www.qbittorrent.org/download" target="_blank">qBitTorrent</a></li><li>Download file torrent berikut:&nbsp;<a href="https://angkasafiles.short.gy/1.5m_fonts" target="_blank">1.5_million_font_files_collection.torrent</a></li><li>Buka file torrent tersebut menggunakan qBitTorrent dan proses download akan dimulai.</li>
   </ol>
 
-  <p>
-    <b>* </b>File versi download masih acak-acakan, banyak file duplikat, nama file tidak sesuai nama font, sebagian file rusak/corrupt, ... Untuk file hasil sortir, terstruktur rapi, minim duplikat, nama file sesuai nama font, hanya tersedia di <a href="https://angkasafiles.github.io">Paket Harddisk File Desain 500 GB</a>
+  <p class="msg msg--warning">
+    <b>*</b> File versi download masih acak-acakan, banyak file duplikat, nama file tidak sesuai nama font, sebagian file rusak/corrupt, ...&nbsp;
+  </p>
+
+  <p class="msg msg--success">
+    <b>* </b>Untuk file hasil sortir, terstruktur rapi, tanpa duplikat, nama file sesuai nama font, hanya tersedia di <a href="https://angkasafiles.github.io">Paket Harddisk File Desain 500 GB</a>
   </p>
 
   <div  class="gallery-wrapper">
@@ -181,8 +185,16 @@
     </div>
   </div>
 
+  <p class="msg msg--warning">
+    <b>*</b> Untuk versi download tidak disertai file JPG untuk preview masing-masing PSD.
+  </p>
+
+  <p class="msg msg--success">
+    <font color="#f2f2f5"><b>*</b></font>&nbsp;File preview (JPG) hanya tersedia di <a href="https://angkasafiles.github.io">Paket Harddisk File Desain 500 GB</a>.&nbsp;
+  </p>
+
   <p>
-    <b>* </b>Untuk versi download tidak disertai file JPG untuk preview masing-masing file PSD, preview hanya tersedia di <a href="https://angkasafiles.github.io">Paket Harddisk File Desain 500 GB</a>.&nbsp;
+    
   </p>
             ]]>
         </content>
